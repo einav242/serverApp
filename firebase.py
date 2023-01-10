@@ -42,4 +42,4 @@ def signup():
     return
 
 
-signup()
+login()
